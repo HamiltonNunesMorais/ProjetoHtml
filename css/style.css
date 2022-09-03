@@ -10,7 +10,7 @@
  header .container{
     display: flex;
     justify-content: space-between;
-align-items: center;
+    align-items: center;
  }
 
  header nav{
@@ -33,7 +33,7 @@ align-items: center;
     margin-left: 32px;
     
  }
- header nav ul li: :first-child{
+ header nav ul li :first-child{
         margin-left: 0px;
     
  }
